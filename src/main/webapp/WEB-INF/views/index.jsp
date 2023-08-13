@@ -5,6 +5,7 @@
     <h2>It's working on hoodoo server(9.0.65)</h2>
     <hr>
     <hr>
+    <h1>PLEASE COMMON</h1>
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
