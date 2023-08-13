@@ -7,6 +7,7 @@
     <hr>
     <h1>PLEASE COMMON</h1>
     <hr>
+    <h1>Tomcat을 키니까 괴는 구만 </h1>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
